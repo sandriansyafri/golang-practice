@@ -1,0 +1,4 @@
+github.com/sandriansyafri/go-module-say-hello v1.0.1 h1:DaftAfgksTsSqKyyW6YeJSl5LN6Inr4o/nEZOEa5w+M=
+github.com/sandriansyafri/go-module-say-hello v1.0.1/go.mod h1:FkHebS/nfKQMLnuhmow9s5DbfuvzShmmoLEs61YYcMc=
+github.com/sandriansyafri/go-module-say-hello/v2 v2.0.0 h1:jBnl3/wY8cPdVeXJ0xUH/obd7Tvxf8Gozzesgtnfu1o=
+github.com/sandriansyafri/go-module-say-hello/v2 v2.0.0/go.mod h1:P4K3ltMUvd1N0NUO/9Ww9h0its+oHwG1+NGVlK7v0q0=
